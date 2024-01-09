@@ -1,0 +1,12 @@
+/* App.css */
+.app-container {
+    padding: 14px;
+  }
+  
+  /* Media Query for Responsiveness */
+  @media screen and (max-width: 768px) {
+    .site-page-header {
+      padding: 0;
+    }
+  }
+  
